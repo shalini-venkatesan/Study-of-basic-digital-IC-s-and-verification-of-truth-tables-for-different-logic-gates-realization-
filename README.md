@@ -79,6 +79,8 @@ endmodule
 # Logic symbol & Truthtable
 RTL realization
 # Output:
+logic & symbols:
+![output](/ex%20pic%2013.png)
  RTL
 ![output](/ex%20pic%2011.png)
  TIMING DAIGRAM:
