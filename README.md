@@ -76,14 +76,14 @@ xnor(y8,a,b);
 endmodule
 ```
 
-# Logic symbol & Truthtable
-RTL realization
+
+### RTL realization
 # Output:
-logic & symbols:
+#### Logic symbol & Truthtable
 ![output](/ex%20pic%2013.png)
- RTL
+#### RTL
 ![output](/ex%20pic%2011.png)
- TIMING DAIGRAM:
+#### IMING DAIGRAM:
 ![output](/ex%20pic%2012.png)
 
 Result:
